@@ -2,8 +2,8 @@
 
 Musicfy is a music player web app.
 
-It used HTML, CSS, Javascript, React.js.
+It used CSS, Javascript, React.js.
 
-The code is in 'new_branch'
+The code is in the 'new_branch'
 
 
