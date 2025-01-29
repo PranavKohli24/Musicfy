@@ -1,0 +1,11 @@
+.screen {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  width: 200px;
+}
+
+.screen button {
+  margin-bottom: 20px;
+}

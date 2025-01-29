@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.menu {
+  width: 200px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+#side-menu {
+  width: 100%;
+}
+
+#side-menu td {
+  padding: 10px;
+  cursor: pointer;
+}
+
+#side-menu td.active {
+  background-color: #ddd;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
